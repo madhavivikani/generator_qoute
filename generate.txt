@@ -1,0 +1,8 @@
+API :
+https://type.fit/api/quotes
+
+-project ready kro
+- axious me rakho or sare quotes get kr lo
+
+- ab aesa krna jab me generate btn pr click kru tab quote aane chhiye
+-to btn bna ke use onClick event deke usme random ka code likhna hai bad me use jo hmne sare quote get kiye the aese es state ke variable se kar le ....
